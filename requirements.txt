@@ -1,0 +1,11 @@
+chronos @ git+https://github.com/amazon-science/chronos-forecasting.git@9d59057b72a1ddd52e163c536d0f99631eea4857
+datasetsforecast==0.0.8
+jupyterlab==4.1.8
+matplotlib==3.8.4
+neuralforecast==1.7.1
+nixtla==0.5.1
+numba==0.59.1
+numpy==1.26.4
+pandas==2.2.2
+transformers==4.42.4
+utilsforecast==0.1.7

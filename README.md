@@ -1,5 +1,5 @@
-# Foundation Models For Time Series Forecasting
-Official repository for the book Foundation Models for Time Series Forecasting
+# Time Series Forecasting with Foundation Models
+Official repository for the book Time Series Forecasting with Foundation Models
 
 ## Steps to run the code
 

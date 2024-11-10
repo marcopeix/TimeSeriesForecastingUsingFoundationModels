@@ -1,4 +1,5 @@
 chronos @ git+https://github.com/amazon-science/chronos-forecasting.git@9d59057b72a1ddd52e163c536d0f99631eea4857
+uni2ts @ git+https://github.com/SalesforceAIResearch/uni2ts.git
 datasetsforecast==0.0.8
 jupyterlab==4.1.8
 matplotlib==3.8.4
@@ -7,5 +8,6 @@ nixtla==0.5.1
 numba==0.59.1
 numpy==1.26.4
 pandas==2.2.2
+scikit-learn==1.5.2
 transformers==4.42.4
 utilsforecast==0.1.7
